@@ -1,0 +1,108 @@
+#Lyrics1 { 
+    text-align: center;
+    background-color: aqua;
+    font-family: "휴먼편지체";
+    text-shadow: 1px 1px red;
+    border-radius: 50px;
+    border-style: solid;
+    border-color: black;
+    background-image: url("song1.jpg");
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+#Lyrics2 { 
+    text-align: center;
+    background-color: aqua;
+    font-family: "휴먼편지체";
+    text-shadow: 1px 1px red;
+    border-radius: 50px;
+    border-style: solid;
+    border-color: black;
+    background-image: url("song2.jpg");
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+#Lyrics3 { 
+    text-align: center;
+    background-color: aqua;
+    font-family: "휴먼편지체";
+    text-shadow: 1px 1px red;
+    border-radius: 50px;
+    border-style: solid;
+    border-color: black;
+    background-image: url("song3.jpg");
+    background-repeat: no-repeat;
+    background-position:left center;
+}
+#Lyrics4 { 
+    text-align: center;
+    background-color: aqua;
+    font-family: "휴먼편지체";
+    text-shadow: 1px 1px red;
+    border-radius: 50px;
+    border-style: solid;
+    border-color: black;
+    background-image: url("song4.jpg");
+    background-repeat: no-repeat;
+    background-position:left center;
+}
+#song_name {
+    text-align: center;
+    font-style: italic;
+    text-shadow: 1px 1px blue;
+}
+header h1 {
+    text-align: center;
+    border-radius: 50px;
+    background-color: aliceblue;
+    color: yellow;
+    border-color: black;
+    border-style: solid;
+    text-shadow: 2px 2px 2px blue, 0px 0px 25px black, 0px 0px 5px darkblue;
+}
+body {
+    background-color: aquamarine;
+}
+
+
+    
+
+
+article h2 {
+    border: 15px ridge yellow;
+}
+footer h1 {
+    color: yellow;
+    text-shadow: 2px 2px 2px blue, 0px 0px 25px black, 0px 0px 5px darkblue;
+}
+form {
+    color: brown;
+    font-style: italic;
+}
+#dev {
+    font-family: "휴먼편지체";
+
+}
+#menubar {
+    background-color: olive;
+    border-radius: 50px;
+    border-color: black;
+    border-style: solid;
+}
+#menubar ul {
+    margin: 0;
+    padding: 0;
+    width: 1000px;
+}
+#menubar ul li {
+    display: inline-block;
+    list-style-type: none;
+    padding: 0px 15px;
+}
+#menubar ul li a {
+    color: white;
+    text-decoration: none;
+}
+#menubar ul li a:hover {
+    color: violet;
+}
